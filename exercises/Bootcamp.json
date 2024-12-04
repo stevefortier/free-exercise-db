@@ -1,0 +1,26 @@
+{
+  "name": "Bootcamp",
+  "force": null,
+  "level": "intermediate",
+  "mechanic": null,
+  "equipment": null,
+  "primaryMuscles": [
+    "quadriceps",
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "glutes",
+    "hamstrings",
+    "triceps"
+  ],
+  "instructions": [
+    "Follow the instructions of your instructor, application, or exercise program."
+  ],
+  "category": "sport",
+  "images": [
+    "Bootcamp/0.jpg",
+    "Bootcamp/1.jpg"
+  ],
+  "id": "Bootcamp"
+}
