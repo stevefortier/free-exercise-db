@@ -1,0 +1,25 @@
+{
+  "name": "Front Raise With Bands",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "bands",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Stand on the center of a resistance band with your feet shoulder-width apart.",
+    "Hold the handles with an overhand grip, arms hanging down in front of your thighs.",
+    "Keeping your arms straight (or with a slight bend in the elbows), lift the handles forward and up until your arms are parallel to the floor.",
+    "Pause for a second at the top of the movement.",
+    "Slowly lower your arms back to the starting position.",
+    "Repeat for the recommended number of repetitions."
+  ],
+  "category": "strength",
+  "images": [
+    "Front_Raise_With_Bands/0.jpg",
+    "Front_Raise_With_Bands/1.jpg"
+  ],
+  "id": "Front_Raise_With_Bands"
+}

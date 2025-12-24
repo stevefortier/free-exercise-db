@@ -1,0 +1,26 @@
+{
+  "name": "777",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "isolation",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "biceps"
+  ],
+  "secondaryMuscles": [
+    "forearms"
+  ],
+  "instructions": [
+    "Stand up straight with a barbell in your hands, palms facing forward.",
+    "Perform 7 repetitions of the bottom half of a bicep curl (from full extension to 90 degrees).",
+    "Perform 7 repetitions of the top half of a bicep curl (from 90 degrees to full contraction).",
+    "Perform 7 repetitions of the full range of motion bicep curl.",
+    "Do not rest between the segments. This completes one set."
+  ],
+  "category": "strength",
+  "images": [
+    "777/0.jpg",
+    "777/1.jpg"
+  ],
+  "id": "777"
+}

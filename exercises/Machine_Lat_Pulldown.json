@@ -1,0 +1,29 @@
+{
+  "name": "Machine Lat Pulldown",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "machine",
+  "primaryMuscles": [
+    "lats"
+  ],
+  "secondaryMuscles": [
+    "biceps",
+    "shoulders"
+  ],
+  "instructions": [
+    "Adjust the seat height so that your thighs fit comfortably under the pads.",
+    "Grasp the handles with an overhand grip, hands wider than shoulder-width apart.",
+    "Sit down and secure your legs under the pads.",
+    "Pull the handles down towards your upper chest, squeezing your shoulder blades together.",
+    "Pause for a moment at the bottom of the movement.",
+    "Slowly return the handles to the starting position, fully extending your arms.",
+    "Repeat for the recommended number of repetitions."
+  ],
+  "category": "strength",
+  "images": [
+    "Machine_Lat_Pulldown/0.jpg",
+    "Machine_Lat_Pulldown/1.jpg"
+  ],
+  "id": "Machine_Lat_Pulldown"
+}

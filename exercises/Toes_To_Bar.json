@@ -1,0 +1,27 @@
+{
+  "name": "Toes To Bar",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "forearms",
+    "lats"
+  ],
+  "instructions": [
+    "Hang from a pull-up bar with an overhand grip, hands slightly wider than shoulder-width apart.",
+    "Keep your legs straight and together.",
+    "Engage your core and lift your legs up towards the bar until your toes touch it.",
+    "Slowly lower your legs back down to the starting position with control.",
+    "Avoid swinging your body to generate momentum."
+  ],
+  "category": "strength",
+  "images": [
+    "Toes_To_Bar/0.jpg",
+    "Toes_To_Bar/1.jpg"
+  ],
+  "id": "Toes_To_Bar"
+}

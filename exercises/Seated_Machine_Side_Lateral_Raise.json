@@ -1,0 +1,27 @@
+{
+  "name": "Seated Machine Side Lateral Raise",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "machine",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Sit on the lateral raise machine and select the weight.",
+    "Adjust the seat height so that your shoulders are in line with the machine's pivot points.",
+    "Place your arms against the pads, with your elbows bent at a 90-degree angle.",
+    "Keep your back straight and your feet flat on the floor.",
+    "Lift your arms out to the sides, pushing against the pads until your arms are parallel to the floor. Exhale as you perform this movement.",
+    "Pause for a moment at the top of the movement.",
+    "Slowly lower your arms back to the starting position while inhaling.",
+    "Repeat for the recommended number of repetitions."
+  ],
+  "category": "strength",
+  "images": [
+    "Seated_Machine_Side_Lateral_Raise/0.jpg",
+    "Seated_Machine_Side_Lateral_Raise/1.jpg"
+  ],
+  "id": "Seated_Machine_Side_Lateral_Raise"
+}
