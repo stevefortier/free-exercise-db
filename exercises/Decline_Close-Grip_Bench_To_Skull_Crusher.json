@@ -25,5 +25,10 @@
     "Decline_Close-Grip_Bench_To_Skull_Crusher/0.jpg",
     "Decline_Close-Grip_Bench_To_Skull_Crusher/1.jpg"
   ],
-  "id": "Decline_Close-Grip_Bench_To_Skull_Crusher"
+  "id": "Decline_Close-Grip_Bench_To_Skull_Crusher",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 1
 }

@@ -22,5 +22,10 @@
     "Single_Leg_Butt_Kick/0.jpg",
     "Single_Leg_Butt_Kick/1.jpg"
   ],
-  "id": "Single_Leg_Butt_Kick"
+  "id": "Single_Leg_Butt_Kick",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 0,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 0.4
 }

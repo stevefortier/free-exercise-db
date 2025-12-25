@@ -24,5 +24,10 @@
     "Bent_Over_Low-Pulley_Side_Lateral/0.jpg",
     "Bent_Over_Low-Pulley_Side_Lateral/1.jpg"
   ],
-  "id": "Bent_Over_Low-Pulley_Side_Lateral"
+  "id": "Bent_Over_Low-Pulley_Side_Lateral",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 0.85
 }

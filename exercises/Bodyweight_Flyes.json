@@ -24,5 +24,10 @@
     "Bodyweight_Flyes/0.jpg",
     "Bodyweight_Flyes/1.jpg"
   ],
-  "id": "Bodyweight_Flyes"
+  "id": "Bodyweight_Flyes",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 1
 }

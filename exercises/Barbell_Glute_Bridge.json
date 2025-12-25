@@ -21,5 +21,10 @@
     "Barbell_Glute_Bridge/0.jpg",
     "Barbell_Glute_Bridge/1.jpg"
   ],
-  "id": "Barbell_Glute_Bridge"
+  "id": "Barbell_Glute_Bridge",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 1
 }

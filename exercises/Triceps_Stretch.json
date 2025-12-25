@@ -18,5 +18,10 @@
     "Triceps_Stretch/0.jpg",
     "Triceps_Stretch/1.jpg"
   ],
-  "id": "Triceps_Stretch"
+  "id": "Triceps_Stretch",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 0,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 0
 }

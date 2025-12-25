@@ -23,5 +23,10 @@
     "Dumbbell_Shoulder_Press/0.jpg",
     "Dumbbell_Shoulder_Press/1.jpg"
   ],
-  "id": "Dumbbell_Shoulder_Press"
+  "id": "Dumbbell_Shoulder_Press",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 1
 }

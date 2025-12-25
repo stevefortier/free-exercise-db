@@ -21,5 +21,10 @@
     "Seated_Biceps/0.jpg",
     "Seated_Biceps/1.jpg"
   ],
-  "id": "Seated_Biceps"
+  "id": "Seated_Biceps",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 0,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 0
 }

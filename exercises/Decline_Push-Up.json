@@ -22,5 +22,10 @@
     "Decline_Push-Up/0.jpg",
     "Decline_Push-Up/1.jpg"
   ],
-  "id": "Decline_Push-Up"
+  "id": "Decline_Push-Up",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 1
 }

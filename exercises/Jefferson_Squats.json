@@ -28,5 +28,10 @@
     "Jefferson_Squats/0.jpg",
     "Jefferson_Squats/1.jpg"
   ],
-  "id": "Jefferson_Squats"
+  "id": "Jefferson_Squats",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 1
 }

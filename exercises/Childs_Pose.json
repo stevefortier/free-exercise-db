@@ -21,5 +21,10 @@
     "Childs_Pose/0.jpg",
     "Childs_Pose/1.jpg"
   ],
-  "id": "Childs_Pose"
+  "id": "Childs_Pose",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 0,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 0
 }

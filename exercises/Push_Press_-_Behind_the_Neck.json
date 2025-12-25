@@ -22,5 +22,10 @@
     "Push_Press_-_Behind_the_Neck/0.jpg",
     "Push_Press_-_Behind_the_Neck/1.jpg"
   ],
-  "id": "Push_Press_-_Behind_the_Neck"
+  "id": "Push_Press_-_Behind_the_Neck",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 1
 }

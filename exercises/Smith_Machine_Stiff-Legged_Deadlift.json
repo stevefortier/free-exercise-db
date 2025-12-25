@@ -23,5 +23,10 @@
     "Smith_Machine_Stiff-Legged_Deadlift/0.jpg",
     "Smith_Machine_Stiff-Legged_Deadlift/1.jpg"
   ],
-  "id": "Smith_Machine_Stiff-Legged_Deadlift"
+  "id": "Smith_Machine_Stiff-Legged_Deadlift",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 1
 }

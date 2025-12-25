@@ -25,5 +25,10 @@
     "Underhand_Cable_Pulldowns/0.jpg",
     "Underhand_Cable_Pulldowns/1.jpg"
   ],
-  "id": "Underhand_Cable_Pulldowns"
+  "id": "Underhand_Cable_Pulldowns",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 0.85
 }

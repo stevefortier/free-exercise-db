@@ -27,5 +27,10 @@
     "Reverse_Band_Box_Squat/0.jpg",
     "Reverse_Band_Box_Squat/1.jpg"
   ],
-  "id": "Reverse_Band_Box_Squat"
+  "id": "Reverse_Band_Box_Squat",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 1
 }

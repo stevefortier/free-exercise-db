@@ -26,5 +26,10 @@
     "Circus_Bell/0.jpg",
     "Circus_Bell/1.jpg"
   ],
-  "id": "Circus_Bell"
+  "id": "Circus_Bell",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 0.85
 }

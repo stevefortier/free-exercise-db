@@ -25,5 +25,10 @@
     "Squats_-_With_Bands/0.jpg",
     "Squats_-_With_Bands/1.jpg"
   ],
-  "id": "Squats_-_With_Bands"
+  "id": "Squats_-_With_Bands",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 1
 }

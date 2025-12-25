@@ -21,5 +21,10 @@
     "Hip_Extension_with_Bands/0.jpg",
     "Hip_Extension_with_Bands/1.jpg"
   ],
-  "id": "Hip_Extension_with_Bands"
+  "id": "Hip_Extension_with_Bands",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 1
 }

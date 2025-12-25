@@ -23,5 +23,10 @@
     "Otis-Up/0.jpg",
     "Otis-Up/1.jpg"
   ],
-  "id": "Otis-Up"
+  "id": "Otis-Up",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 0.85
 }

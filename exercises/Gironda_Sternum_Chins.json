@@ -24,5 +24,10 @@
     "Gironda_Sternum_Chins/0.jpg",
     "Gironda_Sternum_Chins/1.jpg"
   ],
-  "id": "Gironda_Sternum_Chins"
+  "id": "Gironda_Sternum_Chins",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 0.85
 }

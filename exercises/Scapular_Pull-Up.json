@@ -21,5 +21,10 @@
     "Scapular_Pull-Up/0.jpg",
     "Scapular_Pull-Up/1.jpg"
   ],
-  "id": "Scapular_Pull-Up"
+  "id": "Scapular_Pull-Up",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 1
 }

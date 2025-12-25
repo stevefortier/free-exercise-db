@@ -25,5 +25,10 @@
     "Elevated_Cable_Rows/0.jpg",
     "Elevated_Cable_Rows/1.jpg"
   ],
-  "id": "Elevated_Cable_Rows"
+  "id": "Elevated_Cable_Rows",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 0.85
 }

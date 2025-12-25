@@ -23,5 +23,10 @@
     "Dumbbell_Rear_Lunge/0.jpg",
     "Dumbbell_Rear_Lunge/1.jpg"
   ],
-  "id": "Dumbbell_Rear_Lunge"
+  "id": "Dumbbell_Rear_Lunge",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 1
 }

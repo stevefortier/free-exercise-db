@@ -23,5 +23,10 @@
     "Jerk_Balance/0.jpg",
     "Jerk_Balance/1.jpg"
   ],
-  "id": "Jerk_Balance"
+  "id": "Jerk_Balance",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 1
 }

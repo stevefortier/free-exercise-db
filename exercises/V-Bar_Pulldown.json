@@ -25,5 +25,10 @@
     "V-Bar_Pulldown/0.jpg",
     "V-Bar_Pulldown/1.jpg"
   ],
-  "id": "V-Bar_Pulldown"
+  "id": "V-Bar_Pulldown",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 0.85
 }

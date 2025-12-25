@@ -21,5 +21,10 @@
     "Standing_Olympic_Plate_Hand_Squeeze/0.jpg",
     "Standing_Olympic_Plate_Hand_Squeeze/1.jpg"
   ],
-  "id": "Standing_Olympic_Plate_Hand_Squeeze"
+  "id": "Standing_Olympic_Plate_Hand_Squeeze",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 0.85
 }

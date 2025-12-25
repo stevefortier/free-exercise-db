@@ -25,5 +25,10 @@
     "Clean_from_Blocks/0.jpg",
     "Clean_from_Blocks/1.jpg"
   ],
-  "id": "Clean_from_Blocks"
+  "id": "Clean_from_Blocks",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 1
 }

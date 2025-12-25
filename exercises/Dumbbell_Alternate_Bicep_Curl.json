@@ -22,5 +22,10 @@
     "Dumbbell_Alternate_Bicep_Curl/0.jpg",
     "Dumbbell_Alternate_Bicep_Curl/1.jpg"
   ],
-  "id": "Dumbbell_Alternate_Bicep_Curl"
+  "id": "Dumbbell_Alternate_Bicep_Curl",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 1
 }

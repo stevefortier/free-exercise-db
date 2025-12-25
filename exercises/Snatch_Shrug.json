@@ -20,5 +20,10 @@
     "Snatch_Shrug/0.jpg",
     "Snatch_Shrug/1.jpg"
   ],
-  "id": "Snatch_Shrug"
+  "id": "Snatch_Shrug",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 1
 }

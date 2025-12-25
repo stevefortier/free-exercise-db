@@ -20,5 +20,10 @@
     "Jogging_Treadmill/0.jpg",
     "Jogging_Treadmill/1.jpg"
   ],
-  "id": "Jogging_Treadmill"
+  "id": "Jogging_Treadmill",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 0,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 0.35
 }

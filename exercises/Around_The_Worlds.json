@@ -20,5 +20,10 @@
     "Around_The_Worlds/0.jpg",
     "Around_The_Worlds/1.jpg"
   ],
-  "id": "Around_The_Worlds"
+  "id": "Around_The_Worlds",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 1
 }

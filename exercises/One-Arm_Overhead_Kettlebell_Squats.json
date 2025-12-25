@@ -23,5 +23,10 @@
     "One-Arm_Overhead_Kettlebell_Squats/0.jpg",
     "One-Arm_Overhead_Kettlebell_Squats/1.jpg"
   ],
-  "id": "One-Arm_Overhead_Kettlebell_Squats"
+  "id": "One-Arm_Overhead_Kettlebell_Squats",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 1
 }

@@ -24,5 +24,10 @@
     "Cable_Rope_Rear-Delt_Rows/0.jpg",
     "Cable_Rope_Rear-Delt_Rows/1.jpg"
   ],
-  "id": "Cable_Rope_Rear-Delt_Rows"
+  "id": "Cable_Rope_Rear-Delt_Rows",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 0.85
 }

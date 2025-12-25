@@ -23,5 +23,10 @@
     "Kneeling_Jump_Squat/0.jpg",
     "Kneeling_Jump_Squat/1.jpg"
   ],
-  "id": "Kneeling_Jump_Squat"
+  "id": "Kneeling_Jump_Squat",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 1
 }

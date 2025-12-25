@@ -26,5 +26,10 @@
     "Yoke_Walk/0.jpg",
     "Yoke_Walk/1.jpg"
   ],
-  "id": "Yoke_Walk"
+  "id": "Yoke_Walk",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 1,
+  "modalityEfficiencyFactor": 0.75
 }

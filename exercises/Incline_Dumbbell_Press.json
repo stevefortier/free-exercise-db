@@ -25,5 +25,10 @@
     "Incline_Dumbbell_Press/0.jpg",
     "Incline_Dumbbell_Press/1.jpg"
   ],
-  "id": "Incline_Dumbbell_Press"
+  "id": "Incline_Dumbbell_Press",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 1
 }

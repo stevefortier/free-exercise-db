@@ -21,5 +21,10 @@
     "Rocket_Jump/0.jpg",
     "Rocket_Jump/1.jpg"
   ],
-  "id": "Rocket_Jump"
+  "id": "Rocket_Jump",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 0,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 0.4
 }

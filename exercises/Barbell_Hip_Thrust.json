@@ -21,5 +21,10 @@
     "Barbell_Hip_Thrust/0.jpg",
     "Barbell_Hip_Thrust/1.jpg"
   ],
-  "id": "Barbell_Hip_Thrust"
+  "id": "Barbell_Hip_Thrust",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 1
 }

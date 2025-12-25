@@ -25,5 +25,10 @@
     "Zercher_Squats/0.jpg",
     "Zercher_Squats/1.jpg"
   ],
-  "id": "Zercher_Squats"
+  "id": "Zercher_Squats",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 1
 }

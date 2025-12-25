@@ -23,5 +23,10 @@
     "Goblet_Squat/0.jpg",
     "Goblet_Squat/1.jpg"
   ],
-  "id": "Goblet_Squat"
+  "id": "Goblet_Squat",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 1
 }

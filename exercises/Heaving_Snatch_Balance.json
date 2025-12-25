@@ -25,5 +25,10 @@
     "Heaving_Snatch_Balance/0.jpg",
     "Heaving_Snatch_Balance/1.jpg"
   ],
-  "id": "Heaving_Snatch_Balance"
+  "id": "Heaving_Snatch_Balance",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 1
 }

@@ -22,5 +22,10 @@
     "Bootcamp/0.jpg",
     "Bootcamp/1.jpg"
   ],
-  "id": "Bootcamp"
+  "id": "Bootcamp",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 1
 }

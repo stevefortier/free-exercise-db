@@ -21,5 +21,10 @@
     "Plyo_Kettlebell_Pushups/0.jpg",
     "Plyo_Kettlebell_Pushups/1.jpg"
   ],
-  "id": "Plyo_Kettlebell_Pushups"
+  "id": "Plyo_Kettlebell_Pushups",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 1
 }

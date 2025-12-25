@@ -24,5 +24,10 @@
     "Romanian_Deadlift/0.jpg",
     "Romanian_Deadlift/1.jpg"
   ],
-  "id": "Romanian_Deadlift"
+  "id": "Romanian_Deadlift",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 1
 }

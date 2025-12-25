@@ -24,5 +24,10 @@
     "Double_Kettlebell_Windmill/0.jpg",
     "Double_Kettlebell_Windmill/1.jpg"
   ],
-  "id": "Double_Kettlebell_Windmill"
+  "id": "Double_Kettlebell_Windmill",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 1
 }

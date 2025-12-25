@@ -23,5 +23,10 @@
     "Star_Jump/0.jpg",
     "Star_Jump/1.jpg"
   ],
-  "id": "Star_Jump"
+  "id": "Star_Jump",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 0,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 0.4
 }

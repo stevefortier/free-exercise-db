@@ -21,5 +21,10 @@
     "EZ-Bar_Skullcrusher/0.jpg",
     "EZ-Bar_Skullcrusher/1.jpg"
   ],
-  "id": "EZ-Bar_Skullcrusher"
+  "id": "EZ-Bar_Skullcrusher",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 1
 }

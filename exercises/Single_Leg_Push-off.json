@@ -21,5 +21,10 @@
     "Single_Leg_Push-off/0.jpg",
     "Single_Leg_Push-off/1.jpg"
   ],
-  "id": "Single_Leg_Push-off"
+  "id": "Single_Leg_Push-off",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 0,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 0.4
 }

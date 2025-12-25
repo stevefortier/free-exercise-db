@@ -22,5 +22,10 @@
     "One-Arm_Kettlebell_Split_Snatch/0.jpg",
     "One-Arm_Kettlebell_Split_Snatch/1.jpg"
   ],
-  "id": "One-Arm_Kettlebell_Split_Snatch"
+  "id": "One-Arm_Kettlebell_Split_Snatch",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 1
 }

@@ -25,5 +25,10 @@
     "Standing_Cable_Lift/0.jpg",
     "Standing_Cable_Lift/1.jpg"
   ],
-  "id": "Standing_Cable_Lift"
+  "id": "Standing_Cable_Lift",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 0.85
 }

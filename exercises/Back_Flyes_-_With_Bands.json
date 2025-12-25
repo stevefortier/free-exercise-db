@@ -24,5 +24,10 @@
     "Back_Flyes_-_With_Bands/0.jpg",
     "Back_Flyes_-_With_Bands/1.jpg"
   ],
-  "id": "Back_Flyes_-_With_Bands"
+  "id": "Back_Flyes_-_With_Bands",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 1
 }

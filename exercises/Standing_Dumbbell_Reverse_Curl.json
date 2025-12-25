@@ -21,5 +21,10 @@
     "Standing_Dumbbell_Reverse_Curl/0.jpg",
     "Standing_Dumbbell_Reverse_Curl/1.jpg"
   ],
-  "id": "Standing_Dumbbell_Reverse_Curl"
+  "id": "Standing_Dumbbell_Reverse_Curl",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 1
 }

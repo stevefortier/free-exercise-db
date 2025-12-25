@@ -23,5 +23,10 @@
     "Advanced_Kettlebell_Windmill/0.jpg",
     "Advanced_Kettlebell_Windmill/1.jpg"
   ],
-  "id": "Advanced_Kettlebell_Windmill"
+  "id": "Advanced_Kettlebell_Windmill",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 1
 }

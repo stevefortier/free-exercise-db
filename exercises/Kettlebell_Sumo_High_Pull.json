@@ -23,5 +23,10 @@
     "Kettlebell_Sumo_High_Pull/0.jpg",
     "Kettlebell_Sumo_High_Pull/1.jpg"
   ],
-  "id": "Kettlebell_Sumo_High_Pull"
+  "id": "Kettlebell_Sumo_High_Pull",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 1
 }

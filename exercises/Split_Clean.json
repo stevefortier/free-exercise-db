@@ -29,5 +29,10 @@
     "Split_Clean/0.jpg",
     "Split_Clean/1.jpg"
   ],
-  "id": "Split_Clean"
+  "id": "Split_Clean",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 1
 }

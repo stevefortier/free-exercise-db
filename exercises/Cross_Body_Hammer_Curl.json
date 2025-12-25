@@ -21,5 +21,10 @@
     "Cross_Body_Hammer_Curl/0.jpg",
     "Cross_Body_Hammer_Curl/1.jpg"
   ],
-  "id": "Cross_Body_Hammer_Curl"
+  "id": "Cross_Body_Hammer_Curl",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 1
 }

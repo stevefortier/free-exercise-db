@@ -21,5 +21,10 @@
     "Upright_Row_-_With_Bands/0.jpg",
     "Upright_Row_-_With_Bands/1.jpg"
   ],
-  "id": "Upright_Row_-_With_Bands"
+  "id": "Upright_Row_-_With_Bands",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 1
 }

@@ -24,5 +24,10 @@
     "Frankenstein_Squat/0.jpg",
     "Frankenstein_Squat/1.jpg"
   ],
-  "id": "Frankenstein_Squat"
+  "id": "Frankenstein_Squat",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 1
 }

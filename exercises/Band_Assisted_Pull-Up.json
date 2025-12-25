@@ -23,5 +23,10 @@
     "Band_Assisted_Pull-Up/0.jpg",
     "Band_Assisted_Pull-Up/1.jpg"
   ],
-  "id": "Band_Assisted_Pull-Up"
+  "id": "Band_Assisted_Pull-Up",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 0.85
 }

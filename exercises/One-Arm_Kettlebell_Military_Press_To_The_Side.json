@@ -20,5 +20,10 @@
     "One-Arm_Kettlebell_Military_Press_To_The_Side/0.jpg",
     "One-Arm_Kettlebell_Military_Press_To_The_Side/1.jpg"
   ],
-  "id": "One-Arm_Kettlebell_Military_Press_To_The_Side"
+  "id": "One-Arm_Kettlebell_Military_Press_To_The_Side",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 1
 }

@@ -22,5 +22,10 @@
     "Wrist_Roller/0.jpg",
     "Wrist_Roller/1.jpg"
   ],
-  "id": "Wrist_Roller"
+  "id": "Wrist_Roller",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 0.85
 }

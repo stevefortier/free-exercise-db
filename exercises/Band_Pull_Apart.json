@@ -22,5 +22,10 @@
     "Band_Pull_Apart/0.jpg",
     "Band_Pull_Apart/1.jpg"
   ],
-  "id": "Band_Pull_Apart"
+  "id": "Band_Pull_Apart",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 1
 }

@@ -22,5 +22,10 @@
     "Smith_Machine_Behind_the_Back_Shrug/0.jpg",
     "Smith_Machine_Behind_the_Back_Shrug/1.jpg"
   ],
-  "id": "Smith_Machine_Behind_the_Back_Shrug"
+  "id": "Smith_Machine_Behind_the_Back_Shrug",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 1
 }

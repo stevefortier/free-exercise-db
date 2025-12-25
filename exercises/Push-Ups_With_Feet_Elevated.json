@@ -23,5 +23,10 @@
     "Push-Ups_With_Feet_Elevated/0.jpg",
     "Push-Ups_With_Feet_Elevated/1.jpg"
   ],
-  "id": "Push-Ups_With_Feet_Elevated"
+  "id": "Push-Ups_With_Feet_Elevated",
+  "bodyWeightLoadFactor": 0.65,
+  "externalLoadFactor": 0,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 1
 }

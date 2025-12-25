@@ -29,5 +29,10 @@
     "Clean/0.jpg",
     "Clean/1.jpg"
   ],
-  "id": "Clean"
+  "id": "Clean",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 1
 }

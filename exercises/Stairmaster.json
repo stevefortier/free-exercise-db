@@ -22,5 +22,10 @@
     "Stairmaster/0.jpg",
     "Stairmaster/1.jpg"
   ],
-  "id": "Stairmaster"
+  "id": "Stairmaster",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 0,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 0.35
 }

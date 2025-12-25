@@ -22,5 +22,10 @@
     "Barbell_Curl/0.jpg",
     "Barbell_Curl/1.jpg"
   ],
-  "id": "Barbell_Curl"
+  "id": "Barbell_Curl",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 1
 }

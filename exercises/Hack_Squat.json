@@ -26,5 +26,10 @@
     "Hack_Squat/0.jpg",
     "Hack_Squat/1.jpg"
   ],
-  "id": "Hack_Squat"
+  "id": "Hack_Squat",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 1
 }

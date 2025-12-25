@@ -24,5 +24,10 @@
     "Split_Jerk/0.jpg",
     "Split_Jerk/1.jpg"
   ],
-  "id": "Split_Jerk"
+  "id": "Split_Jerk",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 1
 }

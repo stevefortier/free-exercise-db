@@ -23,5 +23,10 @@
     "Weighted_Ball_Hyperextension/0.jpg",
     "Weighted_Ball_Hyperextension/1.jpg"
   ],
-  "id": "Weighted_Ball_Hyperextension"
+  "id": "Weighted_Ball_Hyperextension",
+  "bodyWeightLoadFactor": 0.4,
+  "externalLoadFactor": 0,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 0.85
 }

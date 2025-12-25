@@ -20,5 +20,10 @@
     "Clean_Shrug/0.jpg",
     "Clean_Shrug/1.jpg"
   ],
-  "id": "Clean_Shrug"
+  "id": "Clean_Shrug",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 1
 }

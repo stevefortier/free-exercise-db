@@ -22,5 +22,10 @@
     "Double_Kettlebell_Snatch/0.jpg",
     "Double_Kettlebell_Snatch/1.jpg"
   ],
-  "id": "Double_Kettlebell_Snatch"
+  "id": "Double_Kettlebell_Snatch",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 1
 }

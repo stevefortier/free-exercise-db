@@ -23,5 +23,10 @@
     "London_Bridges/0.jpg",
     "London_Bridges/1.jpg"
   ],
-  "id": "London_Bridges"
+  "id": "London_Bridges",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 0.85
 }

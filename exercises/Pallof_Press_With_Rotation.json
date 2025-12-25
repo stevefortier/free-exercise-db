@@ -28,5 +28,10 @@
     "Pallof_Press_With_Rotation/0.jpg",
     "Pallof_Press_With_Rotation/1.jpg"
   ],
-  "id": "Pallof_Press_With_Rotation"
+  "id": "Pallof_Press_With_Rotation",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 0.85
 }

@@ -21,5 +21,10 @@
     "Cat_Stretch/0.jpg",
     "Cat_Stretch/1.jpg"
   ],
-  "id": "Cat_Stretch"
+  "id": "Cat_Stretch",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 0,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 0
 }

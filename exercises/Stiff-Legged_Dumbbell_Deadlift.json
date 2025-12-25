@@ -23,5 +23,10 @@
     "Stiff-Legged_Dumbbell_Deadlift/0.jpg",
     "Stiff-Legged_Dumbbell_Deadlift/1.jpg"
   ],
-  "id": "Stiff-Legged_Dumbbell_Deadlift"
+  "id": "Stiff-Legged_Dumbbell_Deadlift",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 1
 }

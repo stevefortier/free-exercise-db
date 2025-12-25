@@ -20,5 +20,10 @@
     "Kettlebell_Figure_8/0.jpg",
     "Kettlebell_Figure_8/1.jpg"
   ],
-  "id": "Kettlebell_Figure_8"
+  "id": "Kettlebell_Figure_8",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 1
 }

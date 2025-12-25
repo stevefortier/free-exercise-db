@@ -23,5 +23,10 @@
     "Ball_Leg_Curl/0.jpg",
     "Ball_Leg_Curl/1.jpg"
   ],
-  "id": "Ball_Leg_Curl"
+  "id": "Ball_Leg_Curl",
+  "bodyWeightLoadFactor": 0.4,
+  "externalLoadFactor": 0,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 0.85
 }

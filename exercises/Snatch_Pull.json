@@ -25,5 +25,10 @@
     "Snatch_Pull/0.jpg",
     "Snatch_Pull/1.jpg"
   ],
-  "id": "Snatch_Pull"
+  "id": "Snatch_Pull",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 1
 }

@@ -21,5 +21,10 @@
     "Band_Good_Morning/0.jpg",
     "Band_Good_Morning/1.jpg"
   ],
-  "id": "Band_Good_Morning"
+  "id": "Band_Good_Morning",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 1
 }

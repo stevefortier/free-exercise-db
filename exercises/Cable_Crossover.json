@@ -22,5 +22,10 @@
     "Cable_Crossover/0.jpg",
     "Cable_Crossover/1.jpg"
   ],
-  "id": "Cable_Crossover"
+  "id": "Cable_Crossover",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 0.85
 }

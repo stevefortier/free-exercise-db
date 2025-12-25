@@ -21,5 +21,10 @@
     "Moving_Claw_Series/0.jpg",
     "Moving_Claw_Series/1.jpg"
   ],
-  "id": "Moving_Claw_Series"
+  "id": "Moving_Claw_Series",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 0,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 0.4
 }

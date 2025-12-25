@@ -27,5 +27,10 @@
     "Power_Jerk/0.jpg",
     "Power_Jerk/1.jpg"
   ],
-  "id": "Power_Jerk"
+  "id": "Power_Jerk",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 1
 }

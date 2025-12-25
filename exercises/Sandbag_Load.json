@@ -30,5 +30,10 @@
     "Sandbag_Load/0.jpg",
     "Sandbag_Load/1.jpg"
   ],
-  "id": "Sandbag_Load"
+  "id": "Sandbag_Load",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 0.85
 }

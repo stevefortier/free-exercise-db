@@ -25,5 +25,10 @@
     "Atlas_Stone_Trainer/0.jpg",
     "Atlas_Stone_Trainer/1.jpg"
   ],
-  "id": "Atlas_Stone_Trainer"
+  "id": "Atlas_Stone_Trainer",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 0.85
 }

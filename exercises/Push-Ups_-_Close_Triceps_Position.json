@@ -22,5 +22,10 @@
     "Push-Ups_-_Close_Triceps_Position/0.jpg",
     "Push-Ups_-_Close_Triceps_Position/1.jpg"
   ],
-  "id": "Push-Ups_-_Close_Triceps_Position"
+  "id": "Push-Ups_-_Close_Triceps_Position",
+  "bodyWeightLoadFactor": 0.65,
+  "externalLoadFactor": 0,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 1
 }

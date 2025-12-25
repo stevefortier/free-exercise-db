@@ -22,5 +22,10 @@
     "Reverse_Plate_Curls/0.jpg",
     "Reverse_Plate_Curls/1.jpg"
   ],
-  "id": "Reverse_Plate_Curls"
+  "id": "Reverse_Plate_Curls",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 0.85
 }

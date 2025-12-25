@@ -21,5 +21,10 @@
     "Drop_Push/0.jpg",
     "Drop_Push/1.jpg"
   ],
-  "id": "Drop_Push"
+  "id": "Drop_Push",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 0,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 0.4
 }

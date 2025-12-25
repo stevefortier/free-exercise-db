@@ -29,5 +29,10 @@
     "Snatch_from_Blocks/0.jpg",
     "Snatch_from_Blocks/1.jpg"
   ],
-  "id": "Snatch_from_Blocks"
+  "id": "Snatch_from_Blocks",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 1
 }

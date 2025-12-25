@@ -21,5 +21,10 @@
     "Thigh_Abductor/0.jpg",
     "Thigh_Abductor/1.jpg"
   ],
-  "id": "Thigh_Abductor"
+  "id": "Thigh_Abductor",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 1
 }

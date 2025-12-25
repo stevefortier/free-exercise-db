@@ -21,5 +21,10 @@
     "Single-Leg_High_Box_Squat/0.jpg",
     "Single-Leg_High_Box_Squat/1.jpg"
   ],
-  "id": "Single-Leg_High_Box_Squat"
+  "id": "Single-Leg_High_Box_Squat",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 0.85
 }

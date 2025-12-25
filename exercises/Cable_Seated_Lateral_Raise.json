@@ -25,5 +25,10 @@
     "Cable_Seated_Lateral_Raise/0.jpg",
     "Cable_Seated_Lateral_Raise/1.jpg"
   ],
-  "id": "Cable_Seated_Lateral_Raise"
+  "id": "Cable_Seated_Lateral_Raise",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 0.85
 }

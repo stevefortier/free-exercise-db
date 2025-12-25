@@ -25,5 +25,10 @@
     "Chair_Squat/0.jpg",
     "Chair_Squat/1.jpg"
   ],
-  "id": "Chair_Squat"
+  "id": "Chair_Squat",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 1
 }

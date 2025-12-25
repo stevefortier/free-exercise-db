@@ -23,5 +23,10 @@
     "Incline_Dumbbell_Flyes_-_With_A_Twist/0.jpg",
     "Incline_Dumbbell_Flyes_-_With_A_Twist/1.jpg"
   ],
-  "id": "Incline_Dumbbell_Flyes_-_With_A_Twist"
+  "id": "Incline_Dumbbell_Flyes_-_With_A_Twist",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 1
 }

@@ -27,5 +27,10 @@
     "Sumo_Deadlift/0.jpg",
     "Sumo_Deadlift/1.jpg"
   ],
-  "id": "Sumo_Deadlift"
+  "id": "Sumo_Deadlift",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 1
 }

@@ -28,5 +28,10 @@
     "Hang_Snatch_-_Below_Knees/0.jpg",
     "Hang_Snatch_-_Below_Knees/1.jpg"
   ],
-  "id": "Hang_Snatch_-_Below_Knees"
+  "id": "Hang_Snatch_-_Below_Knees",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 1
 }

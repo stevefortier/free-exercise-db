@@ -23,5 +23,10 @@
     "One-Legged_Cable_Kickback/0.jpg",
     "One-Legged_Cable_Kickback/1.jpg"
   ],
-  "id": "One-Legged_Cable_Kickback"
+  "id": "One-Legged_Cable_Kickback",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 0.85
 }

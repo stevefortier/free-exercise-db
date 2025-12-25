@@ -24,5 +24,10 @@
     "Low_Pulley_Row_To_Neck/0.jpg",
     "Low_Pulley_Row_To_Neck/1.jpg"
   ],
-  "id": "Low_Pulley_Row_To_Neck"
+  "id": "Low_Pulley_Row_To_Neck",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 0.85
 }

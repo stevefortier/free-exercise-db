@@ -21,5 +21,10 @@
     "Straight_Raises_on_Incline_Bench/0.jpg",
     "Straight_Raises_on_Incline_Bench/1.jpg"
   ],
-  "id": "Straight_Raises_on_Incline_Bench"
+  "id": "Straight_Raises_on_Incline_Bench",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 1
 }

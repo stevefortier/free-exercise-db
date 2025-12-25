@@ -22,5 +22,10 @@
     "One-Arm_Medicine_Ball_Slam/0.jpg",
     "One-Arm_Medicine_Ball_Slam/1.jpg"
   ],
-  "id": "One-Arm_Medicine_Ball_Slam"
+  "id": "One-Arm_Medicine_Ball_Slam",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 1
 }

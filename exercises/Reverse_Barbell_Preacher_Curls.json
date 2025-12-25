@@ -22,5 +22,10 @@
     "Reverse_Barbell_Preacher_Curls/0.jpg",
     "Reverse_Barbell_Preacher_Curls/1.jpg"
   ],
-  "id": "Reverse_Barbell_Preacher_Curls"
+  "id": "Reverse_Barbell_Preacher_Curls",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 1
 }

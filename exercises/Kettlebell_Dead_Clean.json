@@ -24,5 +24,10 @@
     "Kettlebell_Dead_Clean/0.jpg",
     "Kettlebell_Dead_Clean/1.jpg"
   ],
-  "id": "Kettlebell_Dead_Clean"
+  "id": "Kettlebell_Dead_Clean",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 1
 }

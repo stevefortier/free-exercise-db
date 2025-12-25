@@ -21,5 +21,10 @@
     "Kettlebell_Pirate_Ships/0.jpg",
     "Kettlebell_Pirate_Ships/1.jpg"
   ],
-  "id": "Kettlebell_Pirate_Ships"
+  "id": "Kettlebell_Pirate_Ships",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 1
 }

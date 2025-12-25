@@ -22,5 +22,10 @@
     "Sled_Overhead_Backward_Walk/0.jpg",
     "Sled_Overhead_Backward_Walk/1.jpg"
   ],
-  "id": "Sled_Overhead_Backward_Walk"
+  "id": "Sled_Overhead_Backward_Walk",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 1,
+  "modalityEfficiencyFactor": 0.75
 }

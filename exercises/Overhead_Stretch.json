@@ -22,5 +22,10 @@
     "Overhead_Stretch/0.jpg",
     "Overhead_Stretch/1.jpg"
   ],
-  "id": "Overhead_Stretch"
+  "id": "Overhead_Stretch",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 0,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 0
 }

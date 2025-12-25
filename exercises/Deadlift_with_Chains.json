@@ -26,5 +26,10 @@
     "Deadlift_with_Chains/0.jpg",
     "Deadlift_with_Chains/1.jpg"
   ],
-  "id": "Deadlift_with_Chains"
+  "id": "Deadlift_with_Chains",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 1
 }

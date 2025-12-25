@@ -26,5 +26,10 @@
     "Axle_Deadlift/0.jpg",
     "Axle_Deadlift/1.jpg"
   ],
-  "id": "Axle_Deadlift"
+  "id": "Axle_Deadlift",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 0.85
 }

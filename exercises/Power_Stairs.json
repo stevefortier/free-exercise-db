@@ -27,5 +27,10 @@
     "Power_Stairs/0.jpg",
     "Power_Stairs/1.jpg"
   ],
-  "id": "Power_Stairs"
+  "id": "Power_Stairs",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 0.85
 }

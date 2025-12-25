@@ -23,5 +23,10 @@
     "Side_Laterals_to_Front_Raise/0.jpg",
     "Side_Laterals_to_Front_Raise/1.jpg"
   ],
-  "id": "Side_Laterals_to_Front_Raise"
+  "id": "Side_Laterals_to_Front_Raise",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 1
 }

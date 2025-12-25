@@ -21,5 +21,10 @@
     "Bodyweight_Squat/0.jpg",
     "Bodyweight_Squat/1.jpg"
   ],
-  "id": "Bodyweight_Squat"
+  "id": "Bodyweight_Squat",
+  "bodyWeightLoadFactor": 0.6,
+  "externalLoadFactor": 0,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 1
 }

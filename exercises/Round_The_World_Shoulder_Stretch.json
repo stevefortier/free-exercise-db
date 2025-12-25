@@ -21,5 +21,10 @@
     "Round_The_World_Shoulder_Stretch/0.jpg",
     "Round_The_World_Shoulder_Stretch/1.jpg"
   ],
-  "id": "Round_The_World_Shoulder_Stretch"
+  "id": "Round_The_World_Shoulder_Stretch",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 0,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 0
 }

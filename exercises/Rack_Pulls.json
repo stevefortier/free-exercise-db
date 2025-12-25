@@ -23,5 +23,10 @@
     "Rack_Pulls/0.jpg",
     "Rack_Pulls/1.jpg"
   ],
-  "id": "Rack_Pulls"
+  "id": "Rack_Pulls",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 1
 }

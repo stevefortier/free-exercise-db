@@ -21,5 +21,10 @@
     "Platform_Hamstring_Slides/0.jpg",
     "Platform_Hamstring_Slides/1.jpg"
   ],
-  "id": "Platform_Hamstring_Slides"
+  "id": "Platform_Hamstring_Slides",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 0.85
 }

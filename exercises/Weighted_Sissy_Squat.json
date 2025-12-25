@@ -23,5 +23,10 @@
     "Weighted_Sissy_Squat/0.jpg",
     "Weighted_Sissy_Squat/1.jpg"
   ],
-  "id": "Weighted_Sissy_Squat"
+  "id": "Weighted_Sissy_Squat",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 1
 }

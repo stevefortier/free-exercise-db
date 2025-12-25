@@ -23,5 +23,10 @@
     "Barbell_Side_Split_Squat/0.jpg",
     "Barbell_Side_Split_Squat/1.jpg"
   ],
-  "id": "Barbell_Side_Split_Squat"
+  "id": "Barbell_Side_Split_Squat",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 1
 }

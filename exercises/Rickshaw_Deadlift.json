@@ -24,5 +24,10 @@
     "Rickshaw_Deadlift/0.jpg",
     "Rickshaw_Deadlift/1.jpg"
   ],
-  "id": "Rickshaw_Deadlift"
+  "id": "Rickshaw_Deadlift",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 0.85
 }

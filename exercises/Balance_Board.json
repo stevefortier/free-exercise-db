@@ -21,5 +21,10 @@
     "Balance_Board/0.jpg",
     "Balance_Board/1.jpg"
   ],
-  "id": "Balance_Board"
+  "id": "Balance_Board",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 0.85
 }

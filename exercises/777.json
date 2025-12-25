@@ -22,5 +22,10 @@
     "777/0.jpg",
     "777/1.jpg"
   ],
-  "id": "777"
+  "id": "777",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 1
 }

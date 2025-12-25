@@ -29,5 +29,10 @@
     "Squat_with_Plate_Movers/0.jpg",
     "Squat_with_Plate_Movers/1.jpg"
   ],
-  "id": "Squat_with_Plate_Movers"
+  "id": "Squat_with_Plate_Movers",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 1
 }

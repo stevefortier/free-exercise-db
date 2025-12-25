@@ -23,5 +23,10 @@
     "Standing_Low-Pulley_One-Arm_Triceps_Extension/0.jpg",
     "Standing_Low-Pulley_One-Arm_Triceps_Extension/1.jpg"
   ],
-  "id": "Standing_Low-Pulley_One-Arm_Triceps_Extension"
+  "id": "Standing_Low-Pulley_One-Arm_Triceps_Extension",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 0.85
 }

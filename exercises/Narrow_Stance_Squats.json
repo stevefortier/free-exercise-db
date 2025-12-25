@@ -26,5 +26,10 @@
     "Narrow_Stance_Squats/0.jpg",
     "Narrow_Stance_Squats/1.jpg"
   ],
-  "id": "Narrow_Stance_Squats"
+  "id": "Narrow_Stance_Squats",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 1
 }

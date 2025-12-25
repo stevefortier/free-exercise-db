@@ -20,5 +20,10 @@
     "One-Arm_Kettlebell_Floor_Press/0.jpg",
     "One-Arm_Kettlebell_Floor_Press/1.jpg"
   ],
-  "id": "One-Arm_Kettlebell_Floor_Press"
+  "id": "One-Arm_Kettlebell_Floor_Press",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 1
 }

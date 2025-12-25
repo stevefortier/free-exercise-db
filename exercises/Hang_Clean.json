@@ -26,5 +26,10 @@
     "Hang_Clean/0.jpg",
     "Hang_Clean/1.jpg"
   ],
-  "id": "Hang_Clean"
+  "id": "Hang_Clean",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 1
 }

@@ -22,5 +22,10 @@
     "Dumbbell_Incline_Shoulder_Raise/0.jpg",
     "Dumbbell_Incline_Shoulder_Raise/1.jpg"
   ],
-  "id": "Dumbbell_Incline_Shoulder_Raise"
+  "id": "Dumbbell_Incline_Shoulder_Raise",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 1
 }

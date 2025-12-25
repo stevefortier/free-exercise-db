@@ -27,5 +27,10 @@
     "Pin_Presses/0.jpg",
     "Pin_Presses/1.jpg"
   ],
-  "id": "Pin_Presses"
+  "id": "Pin_Presses",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 1
 }

@@ -28,5 +28,10 @@
     "Log_Lift/0.jpg",
     "Log_Lift/1.jpg"
   ],
-  "id": "Log_Lift"
+  "id": "Log_Lift",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 0.85
 }

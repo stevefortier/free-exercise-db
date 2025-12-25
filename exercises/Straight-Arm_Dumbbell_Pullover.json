@@ -25,5 +25,10 @@
     "Straight-Arm_Dumbbell_Pullover/0.jpg",
     "Straight-Arm_Dumbbell_Pullover/1.jpg"
   ],
-  "id": "Straight-Arm_Dumbbell_Pullover"
+  "id": "Straight-Arm_Dumbbell_Pullover",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 1
 }

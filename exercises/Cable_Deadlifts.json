@@ -24,5 +24,10 @@
     "Cable_Deadlifts/0.jpg",
     "Cable_Deadlifts/1.jpg"
   ],
-  "id": "Cable_Deadlifts"
+  "id": "Cable_Deadlifts",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 0.85
 }

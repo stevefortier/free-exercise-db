@@ -18,5 +18,10 @@
     "Face_Pull/0.jpg",
     "Face_Pull/1.jpg"
   ],
-  "id": "Face_Pull"
+  "id": "Face_Pull",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 0.85
 }

@@ -21,5 +21,10 @@
     "Single_Dumbbell_Raise/0.jpg",
     "Single_Dumbbell_Raise/1.jpg"
   ],
-  "id": "Single_Dumbbell_Raise"
+  "id": "Single_Dumbbell_Raise",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 1
 }

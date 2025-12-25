@@ -22,5 +22,10 @@
     "Barbell_Ab_Rollout_-_On_Knees/0.jpg",
     "Barbell_Ab_Rollout_-_On_Knees/1.jpg"
   ],
-  "id": "Barbell_Ab_Rollout_-_On_Knees"
+  "id": "Barbell_Ab_Rollout_-_On_Knees",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 1
 }

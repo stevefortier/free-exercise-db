@@ -23,5 +23,10 @@
     "Front_Squat_Clean_Grip/0.jpg",
     "Front_Squat_Clean_Grip/1.jpg"
   ],
-  "id": "Front_Squat_Clean_Grip"
+  "id": "Front_Squat_Clean_Grip",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 1
 }

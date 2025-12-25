@@ -22,5 +22,10 @@
     "Parallel_Bar_Dip/0.jpg",
     "Parallel_Bar_Dip/1.jpg"
   ],
-  "id": "Parallel_Bar_Dip"
+  "id": "Parallel_Bar_Dip",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 0.85
 }

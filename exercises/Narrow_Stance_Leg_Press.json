@@ -24,5 +24,10 @@
     "Narrow_Stance_Leg_Press/0.jpg",
     "Narrow_Stance_Leg_Press/1.jpg"
   ],
-  "id": "Narrow_Stance_Leg_Press"
+  "id": "Narrow_Stance_Leg_Press",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 1
 }

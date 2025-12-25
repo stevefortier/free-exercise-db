@@ -27,5 +27,10 @@
     "Landmine_Linear_Jammer/0.jpg",
     "Landmine_Linear_Jammer/1.jpg"
   ],
-  "id": "Landmine_Linear_Jammer"
+  "id": "Landmine_Linear_Jammer",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 1
 }

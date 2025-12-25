@@ -23,5 +23,10 @@
     "Sled_Push/0.jpg",
     "Sled_Push/1.jpg"
   ],
-  "id": "Sled_Push"
+  "id": "Sled_Push",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 1,
+  "modalityEfficiencyFactor": 0.75
 }

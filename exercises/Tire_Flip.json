@@ -28,5 +28,10 @@
     "Tire_Flip/0.jpg",
     "Tire_Flip/1.jpg"
   ],
-  "id": "Tire_Flip"
+  "id": "Tire_Flip",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 0.85
 }

@@ -22,5 +22,10 @@
     "Ring_Dips/0.jpg",
     "Ring_Dips/1.jpg"
   ],
-  "id": "Ring_Dips"
+  "id": "Ring_Dips",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 0.85
 }

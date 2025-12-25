@@ -21,5 +21,10 @@
     "Leverage_Decline_Chest_Press/0.jpg",
     "Leverage_Decline_Chest_Press/1.jpg"
   ],
-  "id": "Leverage_Decline_Chest_Press"
+  "id": "Leverage_Decline_Chest_Press",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 1
 }

@@ -24,5 +24,10 @@
     "Two-Arm_Kettlebell_Clean/0.jpg",
     "Two-Arm_Kettlebell_Clean/1.jpg"
   ],
-  "id": "Two-Arm_Kettlebell_Clean"
+  "id": "Two-Arm_Kettlebell_Clean",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 1
 }

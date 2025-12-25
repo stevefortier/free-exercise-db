@@ -22,5 +22,10 @@
     "Floor_Press_with_Chains/0.jpg",
     "Floor_Press_with_Chains/1.jpg"
   ],
-  "id": "Floor_Press_with_Chains"
+  "id": "Floor_Press_with_Chains",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 1
 }

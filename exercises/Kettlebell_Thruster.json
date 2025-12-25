@@ -22,5 +22,10 @@
     "Kettlebell_Thruster/0.jpg",
     "Kettlebell_Thruster/1.jpg"
   ],
-  "id": "Kettlebell_Thruster"
+  "id": "Kettlebell_Thruster",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 1
 }

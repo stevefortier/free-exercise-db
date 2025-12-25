@@ -21,5 +21,10 @@
     "Barbell_Side_Bend/0.jpg",
     "Barbell_Side_Bend/1.jpg"
   ],
-  "id": "Barbell_Side_Bend"
+  "id": "Barbell_Side_Bend",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 1
 }

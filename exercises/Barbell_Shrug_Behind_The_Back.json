@@ -22,5 +22,10 @@
     "Barbell_Shrug_Behind_The_Back/0.jpg",
     "Barbell_Shrug_Behind_The_Back/1.jpg"
   ],
-  "id": "Barbell_Shrug_Behind_The_Back"
+  "id": "Barbell_Shrug_Behind_The_Back",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 1
 }

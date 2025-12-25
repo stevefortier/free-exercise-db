@@ -26,5 +26,10 @@
     "Speed_Squats/0.jpg",
     "Speed_Squats/1.jpg"
   ],
-  "id": "Speed_Squats"
+  "id": "Speed_Squats",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 1
 }

@@ -22,5 +22,10 @@
     "Spell_Caster/0.jpg",
     "Spell_Caster/1.jpg"
   ],
-  "id": "Spell_Caster"
+  "id": "Spell_Caster",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 1
 }

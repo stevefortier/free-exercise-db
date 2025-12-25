@@ -23,5 +23,10 @@
     "Hanging_Bar_Good_Morning/0.jpg",
     "Hanging_Bar_Good_Morning/1.jpg"
   ],
-  "id": "Hanging_Bar_Good_Morning"
+  "id": "Hanging_Bar_Good_Morning",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 1
 }

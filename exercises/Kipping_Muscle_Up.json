@@ -28,5 +28,10 @@
     "Kipping_Muscle_Up/0.jpg",
     "Kipping_Muscle_Up/1.jpg"
   ],
-  "id": "Kipping_Muscle_Up"
+  "id": "Kipping_Muscle_Up",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 0.85
 }

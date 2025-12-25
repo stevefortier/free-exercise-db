@@ -25,5 +25,10 @@
     "Rickshaw_Carry/0.jpg",
     "Rickshaw_Carry/1.jpg"
   ],
-  "id": "Rickshaw_Carry"
+  "id": "Rickshaw_Carry",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 1,
+  "modalityEfficiencyFactor": 0.75
 }

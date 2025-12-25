@@ -22,5 +22,10 @@
     "Suspended_Push-Up/0.jpg",
     "Suspended_Push-Up/1.jpg"
   ],
-  "id": "Suspended_Push-Up"
+  "id": "Suspended_Push-Up",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 0.85
 }

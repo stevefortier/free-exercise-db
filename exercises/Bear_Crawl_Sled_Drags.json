@@ -21,5 +21,10 @@
     "Bear_Crawl_Sled_Drags/0.jpg",
     "Bear_Crawl_Sled_Drags/1.jpg"
   ],
-  "id": "Bear_Crawl_Sled_Drags"
+  "id": "Bear_Crawl_Sled_Drags",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 1,
+  "modalityEfficiencyFactor": 0.75
 }

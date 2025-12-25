@@ -24,5 +24,10 @@
     "Incline_Push-Up_Reverse_Grip/0.jpg",
     "Incline_Push-Up_Reverse_Grip/1.jpg"
   ],
-  "id": "Incline_Push-Up_Reverse_Grip"
+  "id": "Incline_Push-Up_Reverse_Grip",
+  "bodyWeightLoadFactor": 0.65,
+  "externalLoadFactor": 0,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 1
 }

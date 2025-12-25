@@ -19,5 +19,10 @@
     "Shoulder_Circles/0.jpg",
     "Shoulder_Circles/1.jpg"
   ],
-  "id": "Shoulder_Circles"
+  "id": "Shoulder_Circles",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 0,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 0
 }

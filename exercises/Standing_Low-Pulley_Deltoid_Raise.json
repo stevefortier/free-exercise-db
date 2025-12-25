@@ -23,5 +23,10 @@
     "Standing_Low-Pulley_Deltoid_Raise/0.jpg",
     "Standing_Low-Pulley_Deltoid_Raise/1.jpg"
   ],
-  "id": "Standing_Low-Pulley_Deltoid_Raise"
+  "id": "Standing_Low-Pulley_Deltoid_Raise",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 0.85
 }

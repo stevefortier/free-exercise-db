@@ -27,5 +27,10 @@
     "Hang_Clean_-_Below_the_Knees/0.jpg",
     "Hang_Clean_-_Below_the_Knees/1.jpg"
   ],
-  "id": "Hang_Clean_-_Below_the_Knees"
+  "id": "Hang_Clean_-_Below_the_Knees",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 1
 }

@@ -22,5 +22,10 @@
     "Medicine_Ball_Scoop_Throw/0.jpg",
     "Medicine_Ball_Scoop_Throw/1.jpg"
   ],
-  "id": "Medicine_Ball_Scoop_Throw"
+  "id": "Medicine_Ball_Scoop_Throw",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 0,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 0.4
 }

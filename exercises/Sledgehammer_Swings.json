@@ -25,5 +25,10 @@
     "Sledgehammer_Swings/0.jpg",
     "Sledgehammer_Swings/1.jpg"
   ],
-  "id": "Sledgehammer_Swings"
+  "id": "Sledgehammer_Swings",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 0,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 0.4
 }

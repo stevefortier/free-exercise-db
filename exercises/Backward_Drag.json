@@ -23,5 +23,10 @@
     "Backward_Drag/0.jpg",
     "Backward_Drag/1.jpg"
   ],
-  "id": "Backward_Drag"
+  "id": "Backward_Drag",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 1,
+  "modalityEfficiencyFactor": 0.75
 }

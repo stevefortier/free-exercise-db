@@ -24,5 +24,10 @@
     "Bench_Press_-_Powerlifting/0.jpg",
     "Bench_Press_-_Powerlifting/1.jpg"
   ],
-  "id": "Bench_Press_-_Powerlifting"
+  "id": "Bench_Press_-_Powerlifting",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 1
 }

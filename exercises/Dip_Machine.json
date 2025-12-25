@@ -23,5 +23,10 @@
     "Dip_Machine/0.jpg",
     "Dip_Machine/1.jpg"
   ],
-  "id": "Dip_Machine"
+  "id": "Dip_Machine",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 1
 }

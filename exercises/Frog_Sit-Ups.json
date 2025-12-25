@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "abdominals"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Lie with your back flat on the floor (or exercise mat) and your legs extended in front of you.",
     "Now bend at the knees and place your outer thighs by the floor (or mat) as you make the soles of your feet touch each other.",
@@ -24,5 +22,10 @@
     "Frog_Sit-Ups/0.jpg",
     "Frog_Sit-Ups/1.jpg"
   ],
-  "id": "Frog_Sit-Ups"
+  "id": "Frog_Sit-Ups",
+  "bodyWeightLoadFactor": 0.6,
+  "externalLoadFactor": 0,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 1
 }

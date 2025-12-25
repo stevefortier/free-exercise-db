@@ -20,5 +20,10 @@
     "Chest_And_Front_Of_Shoulder_Stretch/0.jpg",
     "Chest_And_Front_Of_Shoulder_Stretch/1.jpg"
   ],
-  "id": "Chest_And_Front_Of_Shoulder_Stretch"
+  "id": "Chest_And_Front_Of_Shoulder_Stretch",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 0,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 0
 }

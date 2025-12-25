@@ -25,5 +25,10 @@
     "Rope_Climb/0.jpg",
     "Rope_Climb/1.jpg"
   ],
-  "id": "Rope_Climb"
+  "id": "Rope_Climb",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 0.85
 }

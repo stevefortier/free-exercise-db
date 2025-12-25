@@ -22,5 +22,10 @@
     "Alternate_Incline_Dumbbell_Curl/0.jpg",
     "Alternate_Incline_Dumbbell_Curl/1.jpg"
   ],
-  "id": "Alternate_Incline_Dumbbell_Curl"
+  "id": "Alternate_Incline_Dumbbell_Curl",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 1
 }

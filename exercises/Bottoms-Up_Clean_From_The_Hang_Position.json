@@ -20,5 +20,10 @@
     "Bottoms-Up_Clean_From_The_Hang_Position/0.jpg",
     "Bottoms-Up_Clean_From_The_Hang_Position/1.jpg"
   ],
-  "id": "Bottoms-Up_Clean_From_The_Hang_Position"
+  "id": "Bottoms-Up_Clean_From_The_Hang_Position",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 1
 }

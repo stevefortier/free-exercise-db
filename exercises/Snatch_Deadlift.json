@@ -25,5 +25,10 @@
     "Snatch_Deadlift/0.jpg",
     "Snatch_Deadlift/1.jpg"
   ],
-  "id": "Snatch_Deadlift"
+  "id": "Snatch_Deadlift",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 1
 }

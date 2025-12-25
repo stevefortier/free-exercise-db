@@ -23,5 +23,10 @@
     "Barbell_Bench_Press_-_Medium_Grip/0.jpg",
     "Barbell_Bench_Press_-_Medium_Grip/1.jpg"
   ],
-  "id": "Barbell_Bench_Press_-_Medium_Grip"
+  "id": "Barbell_Bench_Press_-_Medium_Grip",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 1
 }

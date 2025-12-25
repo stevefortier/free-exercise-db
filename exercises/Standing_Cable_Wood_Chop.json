@@ -25,5 +25,10 @@
     "Standing_Cable_Wood_Chop/0.jpg",
     "Standing_Cable_Wood_Chop/1.jpg"
   ],
-  "id": "Standing_Cable_Wood_Chop"
+  "id": "Standing_Cable_Wood_Chop",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 0.85
 }

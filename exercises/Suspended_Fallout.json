@@ -24,5 +24,10 @@
     "Suspended_Fallout/0.jpg",
     "Suspended_Fallout/1.jpg"
   ],
-  "id": "Suspended_Fallout"
+  "id": "Suspended_Fallout",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 0.85
 }

@@ -49,5 +49,10 @@
     "Power_Clean/0.jpg",
     "Power_Clean/1.jpg"
   ],
-  "id": "Power_Clean"
+  "id": "Power_Clean",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 1
 }

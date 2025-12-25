@@ -24,5 +24,10 @@
     "Cable_Preacher_Curl/0.jpg",
     "Cable_Preacher_Curl/1.jpg"
   ],
-  "id": "Cable_Preacher_Curl"
+  "id": "Cable_Preacher_Curl",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 0.85
 }

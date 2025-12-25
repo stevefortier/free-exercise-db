@@ -24,5 +24,10 @@
     "Landmine_180s/0.jpg",
     "Landmine_180s/1.jpg"
   ],
-  "id": "Landmine_180s"
+  "id": "Landmine_180s",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 1
 }

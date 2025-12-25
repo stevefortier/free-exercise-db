@@ -22,5 +22,10 @@
     "Concentration_Curls/0.jpg",
     "Concentration_Curls/1.jpg"
   ],
-  "id": "Concentration_Curls"
+  "id": "Concentration_Curls",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 1
 }

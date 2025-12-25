@@ -31,5 +31,10 @@
     "Clean_and_Jerk/0.jpg",
     "Clean_and_Jerk/1.jpg"
   ],
-  "id": "Clean_and_Jerk"
+  "id": "Clean_and_Jerk",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 1
 }

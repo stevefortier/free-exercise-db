@@ -25,5 +25,10 @@
     "Front_Barbell_Squat_To_A_Bench/0.jpg",
     "Front_Barbell_Squat_To_A_Bench/1.jpg"
   ],
-  "id": "Front_Barbell_Squat_To_A_Bench"
+  "id": "Front_Barbell_Squat_To_A_Bench",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 1
 }

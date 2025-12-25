@@ -21,5 +21,10 @@
     "Car_Drivers/0.jpg",
     "Car_Drivers/1.jpg"
   ],
-  "id": "Car_Drivers"
+  "id": "Car_Drivers",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 1
 }

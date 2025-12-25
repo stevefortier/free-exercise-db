@@ -27,5 +27,10 @@
     "Muscle_Up/0.jpg",
     "Muscle_Up/1.jpg"
   ],
-  "id": "Muscle_Up"
+  "id": "Muscle_Up",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 0.85
 }

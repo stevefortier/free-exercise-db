@@ -23,5 +23,10 @@
     "Reverse_Hyperextension/0.jpg",
     "Reverse_Hyperextension/1.jpg"
   ],
-  "id": "Reverse_Hyperextension"
+  "id": "Reverse_Hyperextension",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 1
 }

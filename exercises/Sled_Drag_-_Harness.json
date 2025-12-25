@@ -21,5 +21,10 @@
     "Sled_Drag_-_Harness/0.jpg",
     "Sled_Drag_-_Harness/1.jpg"
   ],
-  "id": "Sled_Drag_-_Harness"
+  "id": "Sled_Drag_-_Harness",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 1,
+  "modalityEfficiencyFactor": 0.75
 }

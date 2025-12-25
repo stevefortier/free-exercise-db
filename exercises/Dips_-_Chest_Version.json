@@ -22,5 +22,10 @@
     "Dips_-_Chest_Version/0.jpg",
     "Dips_-_Chest_Version/1.jpg"
   ],
-  "id": "Dips_-_Chest_Version"
+  "id": "Dips_-_Chest_Version",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 0.85
 }

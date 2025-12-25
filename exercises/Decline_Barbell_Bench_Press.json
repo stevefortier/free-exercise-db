@@ -24,5 +24,10 @@
     "Decline_Barbell_Bench_Press/0.jpg",
     "Decline_Barbell_Bench_Press/1.jpg"
   ],
-  "id": "Decline_Barbell_Bench_Press"
+  "id": "Decline_Barbell_Bench_Press",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 1
 }

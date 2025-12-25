@@ -23,5 +23,10 @@
     "Press_Sit-Up/0.jpg",
     "Press_Sit-Up/1.jpg"
   ],
-  "id": "Press_Sit-Up"
+  "id": "Press_Sit-Up",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 1
 }

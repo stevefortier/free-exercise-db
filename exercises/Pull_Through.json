@@ -20,5 +20,10 @@
     "Pull_Through/0.jpg",
     "Pull_Through/1.jpg"
   ],
-  "id": "Pull_Through"
+  "id": "Pull_Through",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 0.85
 }

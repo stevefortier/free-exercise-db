@@ -24,5 +24,10 @@
     "Barbell_Step_Ups/0.jpg",
     "Barbell_Step_Ups/1.jpg"
   ],
-  "id": "Barbell_Step_Ups"
+  "id": "Barbell_Step_Ups",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 1
 }

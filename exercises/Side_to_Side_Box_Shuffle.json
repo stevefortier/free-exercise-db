@@ -23,5 +23,10 @@
     "Side_to_Side_Box_Shuffle/0.jpg",
     "Side_to_Side_Box_Shuffle/1.jpg"
   ],
-  "id": "Side_to_Side_Box_Shuffle"
+  "id": "Side_to_Side_Box_Shuffle",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 0,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 0.4
 }

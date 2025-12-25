@@ -20,5 +20,10 @@
     "Jerk_Dip_Squat/0.jpg",
     "Jerk_Dip_Squat/1.jpg"
   ],
-  "id": "Jerk_Dip_Squat"
+  "id": "Jerk_Dip_Squat",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 1
 }

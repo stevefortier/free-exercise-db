@@ -22,5 +22,10 @@
     "Inverted_Row_with_Straps/0.jpg",
     "Inverted_Row_with_Straps/1.jpg"
   ],
-  "id": "Inverted_Row_with_Straps"
+  "id": "Inverted_Row_with_Straps",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 0.85
 }

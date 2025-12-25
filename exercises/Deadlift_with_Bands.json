@@ -25,5 +25,10 @@
     "Deadlift_with_Bands/0.jpg",
     "Deadlift_with_Bands/1.jpg"
   ],
-  "id": "Deadlift_with_Bands"
+  "id": "Deadlift_with_Bands",
+  "bodyWeightLoadFactor": 0,
+  "externalLoadFactor": 1,
+  "assistanceEffectFactor": 1,
+  "staticFactor": 0,
+  "modalityEfficiencyFactor": 1
 }
