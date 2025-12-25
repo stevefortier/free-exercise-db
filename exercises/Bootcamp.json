@@ -27,5 +27,5 @@
   "externalLoadFactor": 1,
   "assistanceEffectFactor": 1,
   "staticFactor": 0,
-  "modalityEfficiencyFactor": 1
+  "modalityEfficiencyFactor": 0.6
 }
