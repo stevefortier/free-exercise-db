@@ -26,7 +26,7 @@
   ],
   "id": "V-Bar_Pullup",
   "bodyWeightLoadFactor": 1,
-  "externalLoadFactor": 0,
+  "externalLoadFactor": 1,
   "assistanceEffectFactor": 1,
   "staticFactor": 0,
   "modalityEfficiencyFactor": 1

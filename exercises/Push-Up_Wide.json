@@ -25,7 +25,7 @@
   ],
   "id": "Push-Up_Wide",
   "bodyWeightLoadFactor": 0.65,
-  "externalLoadFactor": 0,
+  "externalLoadFactor": 1,
   "assistanceEffectFactor": 1,
   "staticFactor": 0,
   "modalityEfficiencyFactor": 1

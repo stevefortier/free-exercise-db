@@ -22,7 +22,7 @@
   ],
   "id": "Butt-Ups",
   "bodyWeightLoadFactor": 0.6,
-  "externalLoadFactor": 0,
+  "externalLoadFactor": 1,
   "assistanceEffectFactor": 1,
   "staticFactor": 0,
   "modalityEfficiencyFactor": 1

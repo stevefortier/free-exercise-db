@@ -24,7 +24,7 @@
   ],
   "id": "Pushups_Close_and_Wide_Hand_Positions",
   "bodyWeightLoadFactor": 0.65,
-  "externalLoadFactor": 0,
+  "externalLoadFactor": 1,
   "assistanceEffectFactor": 1,
   "staticFactor": 0,
   "modalityEfficiencyFactor": 1
