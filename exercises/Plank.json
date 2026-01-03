@@ -22,6 +22,7 @@
   "externalLoadFactor": 1,
   "assistanceEffectFactor": 1,
   "staticSecondsPerRep": 20,
+  "staticVolumeScale": 9,
   "staticFactor": 1,
   "modalityEfficiencyFactor": 1
 }
