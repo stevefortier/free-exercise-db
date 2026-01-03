@@ -20,6 +20,7 @@
   "bodyWeightLoadFactor": 0.6,
   "externalLoadFactor": 1,
   "assistanceEffectFactor": 1,
+  "staticSecondsPerRep": 20,
   "staticFactor": 0,
   "modalityEfficiencyFactor": 1
 }

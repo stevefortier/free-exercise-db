@@ -18,9 +18,10 @@
     "Plank/1.jpg"
   ],
   "id": "Plank",
-  "bodyWeightLoadFactor": 0.6,
+  "bodyWeightLoadFactor": 0.33,
   "externalLoadFactor": 1,
   "assistanceEffectFactor": 1,
+  "staticSecondsPerRep": 20,
   "staticFactor": 1,
   "modalityEfficiencyFactor": 1
 }
