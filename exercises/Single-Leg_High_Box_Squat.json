@@ -26,5 +26,6 @@
   "externalLoadFactor": 1,
   "assistanceEffectFactor": 1,
   "staticFactor": 0,
-  "modalityEfficiencyFactor": 0.85
+  "modalityEfficiencyFactor": 0.85,
+  "doubleRepsForVolume": true
 }
